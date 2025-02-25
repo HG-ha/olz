@@ -19,7 +19,7 @@ setuptools.setup(
         "requests>=2.0.0"
     ],
     classifiers=[
-        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.7.1",
         "Operating System :: OS Independent",
     ],
 )
